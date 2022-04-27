@@ -1,0 +1,36 @@
+.login-container {
+  height: calc(100vh - 60px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+      rgba(119, 114, 114, 0.795),
+      rgba(161, 150, 150, 0.863)
+    ),
+    url(/src/componets/image/2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.login-inner-container {
+  background: rgb(255, 128, 71);
+  padding: 75px 50px;
+  border-radius: 5px;
+  background-image: linear-gradient(
+      rgba(119, 114, 114, 0.795),
+      rgba(161, 150, 150, 0.863)
+    ),
+    url(/src/componets/image/2.jpg);
+}
+
+@media screen and (max-width: 1500px) {
+  .login-image-container {
+    display: none;
+  }
+  .login-inner-container {
+    width: 80%;
+  }
+}
+ 
