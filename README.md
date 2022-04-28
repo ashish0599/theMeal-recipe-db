@@ -1,6 +1,6 @@
-# [Click](https://heartfelt-custard-1b6193.netlify.app/) for the Deployed Link of theMealDb Recipe  
+# [Click](https://comforting-frangipane-9956c8.netlify.app) for the Deployed Link of theMealDb Recipe  
 
-# [Welcome to theMealDb](https://github.com/ankesai8/theMealDB-Recipe-Front-End)
+# [Welcome to theMealDb](https://github.com/ashish0599/theMeal-recipe-db-frontend)
     
   An open, crowd-sourced database of Recipes from around the world
 
